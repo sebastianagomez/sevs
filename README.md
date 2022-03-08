@@ -1,2 +1,7 @@
-# sevs
-Mis proyectos personales para Sev's.
+# Sev's
+
+My personal proyects for Sev's.
+
+## Author:
+
+*Sebastián Ariel Gómez*
